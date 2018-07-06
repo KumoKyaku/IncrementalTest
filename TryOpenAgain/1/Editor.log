@@ -1,0 +1,161 @@
+
+LICENSE SYSTEM [201876 9:59:8] Next license update check is after 2018-07-06T00:43:30
+
+Built from '2018.2/staging' branch; Version is '2018.2.0b11 (912020d71ebf) revision 9510944'; Using compiler version '191225831'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'zh' Physical Memory: 32713 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1, IsPro: 1
+[Package Manager] Server::Start -- Port 49685 was selected
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Unity.exe
+-projectpath
+G:\Work\IncrementalTest
+-cloudEnvironment
+production
+-useHub
+-hubSessionId
+62cb7650-80b4-11e8-a389-cbe3c1ce5bbd
+Successfully changed project path to: G:\Work\IncrementalTest
+G:/Work/IncrementalTest
+Loading GUID <-> Path mappings...0.000072 seconds
+Loading Asset Database...0.007337 seconds
+Audio: FMOD Profiler initialized on port 54900
+AssetDatabase consistency checks...0.013133 seconds
+Refreshing native plugins compatible for Editor in 40.52 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Done resolving packages in 0.18s seconds
+[Package Manager] Registering 37 packages:
+[Package Manager]  * Package :  com.unity.ads@2.0.8
+    (location: C:\Users\t_sun\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.ads@2.0.8)
+[Package Manager]  * Package :  com.unity.analytics@2.0.16
+    (location: C:\Users\t_sun\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.analytics@2.0.16)
+[Package Manager]  * Package :  com.unity.incrementalcompiler@0.0.42-preview.1
+    (location: C:\Users\t_sun\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.incrementalcompiler@0.0.42-preview.1)
+[Package Manager]  * Package :  com.unity.package-manager-ui@1.9.11
+    (location: C:\Users\t_sun\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.9.11)
+[Package Manager]  * Package :  com.unity.purchasing@2.0.3
+    (location: C:\Users\t_sun\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.purchasing@2.0.3)
+[Package Manager]  * Package :  com.unity.textmeshpro@1.2.1
+    (location: C:\Users\t_sun\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.textmeshpro@1.2.1)
+[Package Manager]  * Package :  com.unity.modules.ai@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai)
+[Package Manager]  * Package :  com.unity.modules.animation@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation)
+[Package Manager]  * Package :  com.unity.modules.assetbundle@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle)
+[Package Manager]  * Package :  com.unity.modules.audio@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio)
+[Package Manager]  * Package :  com.unity.modules.cloth@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth)
+[Package Manager]  * Package :  com.unity.modules.director@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director)
+[Package Manager]  * Package :  com.unity.modules.imageconversion@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion)
+[Package Manager]  * Package :  com.unity.modules.imgui@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui)
+[Package Manager]  * Package :  com.unity.modules.jsonserialize@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize)
+[Package Manager]  * Package :  com.unity.modules.particlesystem@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem)
+[Package Manager]  * Package :  com.unity.modules.physics@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics)
+[Package Manager]  * Package :  com.unity.modules.physics2d@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d)
+[Package Manager]  * Package :  com.unity.modules.screencapture@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture)
+[Package Manager]  * Package :  com.unity.modules.terrain@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain)
+[Package Manager]  * Package :  com.unity.modules.terrainphysics@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics)
+[Package Manager]  * Package :  com.unity.modules.tilemap@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap)
+[Package Manager]  * Package :  com.unity.modules.ui@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui)
+[Package Manager]  * Package :  com.unity.modules.uielements@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements)
+[Package Manager]  * Package :  com.unity.modules.umbra@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra)
+[Package Manager]  * Package :  com.unity.modules.unityanalytics@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequest@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestassetbundle@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestaudio@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequesttexture@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture)
+[Package Manager]  * Package :  com.unity.modules.unitywebrequestwww@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww)
+[Package Manager]  * Package :  com.unity.modules.vehicles@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles)
+[Package Manager]  * Package :  com.unity.modules.video@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video)
+[Package Manager]  * Package :  com.unity.modules.vr@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr)
+[Package Manager]  * Package :  com.unity.modules.wind@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind)
+[Package Manager]  * Package :  com.unity.modules.xr@1.0.0
+    (location: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr)
+[Package Manager]  * Package :  com.unity.standardevents@1.0.13
+    (location: C:\Users\t_sun\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13)
+[Package Manager] Done registering packages in 0.02s seconds
+IsTimeToCheckForNewEditor: Update time 1530838379 current 1530838750
+Initialize engine version: 2018.2.0b11 (912020d71ebf)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   
+    VRAM:     1987 MB
+    Driver:   23.21.13.8816
+WARNING: Shader Unsupported: 'AR/TangoARRender' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'AR/TangoARRender' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Pass 'Flip_RGBARect_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeOSX' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Pass 'RGBAExternal_To_RGBA' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecodeAndroid' - Setting to default shader.
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2018.2.0b11/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2018.2.0b11/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2018.2.0b11/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=0.0.0.0:56144
+error:14090086:lib(20):func(144):reason(134)Begin MonoManager ReloadAssembly
+Refreshing native plugins compatible for Editor in 0.60 ms, found 13 plugins.
+Initializing Unity.PackageManager (PackageManager) v2018.2.0 for Unity v2018.2.0b11
+Registering precompiled unity dll's ...
+Register platform support module: C:\Program Files\Unity\Hub\Editor\2018.2.0b11\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002666 seconds.
+Registering precompiled user dll's ...
+Registered in 0.036546 seconds.
+Refreshing native plugins compatible for Editor in 0.62 ms, found 13 plugins.
+Preloading 3 native plugins for Editor in 4.45 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.412 seconds
+Registering platform support modules:
+Registered platform support modules in: 0.0730072s.
+Native extension for WindowsStandalone target not found
+ (0,0): CompilationOptions switching current directory to :G:\Work\IncrementalTest
+ (0,0): Unity incremental compiler server
+Broker listening on tcp://127.0.0.1:12345
+Begin MonoManager ReloadAssembly
++[LocalIncrementalCompilerService] @ 127.0.0.1:53231
+ (0,0): watchdog active on pid: 20144
+Refreshing native plugins compatible for Editor in 0.88 ms, found 13 plugins.
+Preloading 3 native plugins for Editor in 0.88 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.998 seconds
+Initializing Unity.PackageManager (PackageManager) v2018.2.0 for Unity v2018.2.0b11
+Registering platform support modules:
+Registered platform support modules in: 0.0371503s.
+Native extension for WindowsStandalone target not found
+- Starting compile Library/ScriptAssemblies/Unity.TextMeshPro.dll
+- Starting compile Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+- Starting compile Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
+ (0,0): no prior compilation found for G:\Work\IncrementalTest\Temp\Unity.TextMeshPro.dll
+ (0,0): Unity.TextMeshPro.dll compiling...
+ (0,0): no prior compilation found for G:\Work\IncrementalTest\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): no prior compilation found for G:\Work\IncrementalTest\Temp\UnityEditor.StandardEvents.dll
+ (0,0): UnityEditor.StandardEvents.dll compiling...
+ (0,0): Unity.PackageManagerUI.Editor.dll compiling...
+Cannot transition thread 00003EBC from ASYNC_SUSPEND_REQUESTED with ASYNC_SUSPEND_REQUESTED
